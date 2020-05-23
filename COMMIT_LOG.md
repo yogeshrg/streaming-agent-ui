@@ -212,3 +212,4 @@
 ## 2020-03-22 12:34:53 - feat(build): add build support (5/20)
 ## 2020-03-29 14:09:49 - feat(db): add db support (18/20)
 ## 2020-05-07 16:01:02 - feat(test): add test support
+## 2020-05-23 15:20:55 - feat(ui): implement ui module (16/20)
