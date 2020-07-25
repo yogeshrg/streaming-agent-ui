@@ -12,3 +12,4 @@
 ## 2020-06-28 17:55:29 - feat(cache): create cache handler (9/20)
 ## 2020-07-05 22:49:54 - feat(db): add db endpoint (13/20)
 ## 2020-07-18 22:10:01 - feat(auth): add auth endpoint (1/20)
+## 2020-07-25 19:58:16 - feat(monitor): implement monitor module (5/20)
