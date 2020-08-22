@@ -845,3 +845,4 @@
 ## 2020-08-09 22:11:28 - feat(model): add model support (18/20)
 ## 2020-08-16 22:31:38 - feat(build): implement build module (16/20)
 ## 2020-08-16 23:18:42 - feat(data): create data handler (13/20)
+## 2020-08-22 18:58:09 - feat(db): implement db feature (1/20)
