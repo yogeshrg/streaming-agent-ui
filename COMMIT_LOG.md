@@ -225,3 +225,4 @@
 ## 2020-08-16 22:31:38 - feat(build): implement build module (16/20)
 ## 2020-08-16 23:18:42 - feat(data): create data handler (13/20)
 ## 2020-08-22 18:58:09 - feat(db): implement db feature (1/20)
+## 2020-08-23 22:57:20 - feat(cache): implement cache feature (16/20)
