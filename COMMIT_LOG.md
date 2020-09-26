@@ -228,3 +228,4 @@
 ## 2020-08-23 22:57:20 - feat(cache): implement cache feature (16/20)
 ## 2020-08-30 15:07:50 - feat(queue): implement queue feature (12/20)
 ## 2020-09-12 09:58:32 - feat(docs): add docs support (7/20)
+## 2020-09-26 12:05:19 - feat(log): implement log feature (12/20)
