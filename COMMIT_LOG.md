@@ -853,3 +853,4 @@
 ## 2020-09-26 21:28:07 - feat(security): implement security feature (6/20)
 ## 2020-10-18 18:20:58 - feat(deploy): create deploy handler (9/20)
 ## 2020-11-07 09:26:06 - feat(test): implement test module (14/20)
+## 2020-11-21 19:38:48 - feat(metric): create metric handler (11/20)
