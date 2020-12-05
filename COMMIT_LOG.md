@@ -233,3 +233,4 @@
 ## 2020-10-18 18:20:58 - feat(deploy): create deploy handler (9/20)
 ## 2020-11-07 09:26:06 - feat(test): implement test module (14/20)
 ## 2020-11-21 19:38:48 - feat(metric): create metric handler (11/20)
+## 2020-12-05 11:12:38 - feat(auth): add auth support (3/20)
