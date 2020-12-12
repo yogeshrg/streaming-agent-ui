@@ -235,3 +235,4 @@
 ## 2020-11-21 19:38:48 - feat(metric): create metric handler (11/20)
 ## 2020-12-05 11:12:38 - feat(auth): add auth support (3/20)
 ## 2020-12-12 11:53:51 - feat(config): create config handler (2/20)
+## 2020-12-12 23:25:27 - feat(auth): add auth support (12/20)
