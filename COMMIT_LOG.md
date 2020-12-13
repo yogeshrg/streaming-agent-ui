@@ -857,3 +857,4 @@
 ## 2020-12-05 11:12:38 - feat(auth): add auth support (3/20)
 ## 2020-12-12 11:53:51 - feat(config): create config handler (2/20)
 ## 2020-12-12 23:25:27 - feat(auth): add auth support (12/20)
+## 2020-12-13 19:42:42 - feat(core): add core endpoint (5/20)
