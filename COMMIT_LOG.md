@@ -652,3 +652,4 @@
 ## 2020-12-12 23:25:27 - feat(auth): add auth support (12/20)
 ## 2020-12-13 19:42:42 - feat(core): add core endpoint (5/20)
 ## 2021-01-03 09:20:27 - feat(infra): implement infra module (13/20)
+## 2021-01-30 09:35:50 - feat(alert): add alert endpoint (16/20)
