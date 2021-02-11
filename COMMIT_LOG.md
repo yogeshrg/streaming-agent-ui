@@ -446,3 +446,4 @@
 ## 2020-12-13 19:42:42 - feat(core): add core endpoint (5/20)
 ## 2021-01-03 09:20:27 - feat(infra): implement infra module (13/20)
 ## 2021-01-30 09:35:50 - feat(alert): add alert endpoint (16/20)
+## 2021-02-11 17:40:21 - feat(queue): create queue handler
