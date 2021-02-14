@@ -863,3 +863,4 @@
 ## 2021-02-11 17:40:21 - feat(queue): create queue handler
 ## 2021-02-13 11:18:21 - feat(docs): implement docs module (19/20)
 ## 2021-02-13 14:33:06 - feat(worker): add worker support (3/20)
+## 2021-02-14 19:45:21 - feat(cache): add cache support (20/20)
