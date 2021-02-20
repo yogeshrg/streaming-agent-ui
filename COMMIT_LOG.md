@@ -450,3 +450,4 @@
 ## 2021-02-13 11:18:21 - feat(docs): implement docs module (19/20)
 ## 2021-02-13 14:33:06 - feat(worker): add worker support (3/20)
 ## 2021-02-14 19:45:21 - feat(cache): add cache support (20/20)
+## 2021-02-20 10:17:58 - feat(test): implement test feature (4/20)
