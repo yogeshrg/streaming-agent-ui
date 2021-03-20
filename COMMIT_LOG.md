@@ -660,3 +660,4 @@
 ## 2021-02-20 10:17:58 - feat(test): implement test feature (4/20)
 ## 2021-02-20 16:29:36 - feat(api): add api endpoint (5/20)
 ## 2021-03-20 17:16:09 - feat(cache): create cache handler (20/20)
+## 2021-03-20 18:03:26 - feat(security): add security support (14/20)
