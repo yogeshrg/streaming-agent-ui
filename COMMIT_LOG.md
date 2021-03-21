@@ -41,3 +41,4 @@
 ## 2021-03-20 17:16:09 - feat(cache): create cache handler (20/20)
 ## 2021-03-20 18:03:26 - feat(security): add security support (14/20)
 ## 2021-03-21 18:00:13 - feat(log): implement log module (5/20)
+## 2021-03-21 22:23:41 - feat(data): create data handler (2/20)
