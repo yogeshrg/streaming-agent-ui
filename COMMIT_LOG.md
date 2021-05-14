@@ -871,3 +871,4 @@
 ## 2021-03-21 18:00:13 - feat(log): implement log module (5/20)
 ## 2021-03-21 22:23:41 - feat(data): create data handler (2/20)
 ## 2021-05-07 13:59:33 - feat(queue): add queue support
+## 2021-05-14 11:43:44 - feat(worker): add worker endpoint
