@@ -875,3 +875,4 @@
 ## 2021-05-16 15:43:18 - feat(test): implement test module (11/20)
 ## 2021-05-22 20:37:53 - feat(alert): implement alert module (6/20)
 ## 2021-05-23 09:52:24 - feat(infra): create infra handler (19/20)
+## 2021-05-23 16:54:40 - feat(deploy): add deploy endpoint (6/20)
