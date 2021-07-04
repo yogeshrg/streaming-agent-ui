@@ -256,3 +256,4 @@
 ## 2021-05-23 09:52:24 - feat(infra): create infra handler (19/20)
 ## 2021-05-23 16:54:40 - feat(deploy): add deploy endpoint (6/20)
 ## 2021-07-03 22:26:57 - feat(cache): add cache support (11/20)
+## 2021-07-04 11:19:53 - feat(test): add test support (7/20)
