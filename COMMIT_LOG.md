@@ -263,3 +263,4 @@
 ## 2021-08-14 18:58:36 - feat(api): implement api module (2/20)
 ## 2021-08-15 15:07:47 - feat(build): implement build module (13/20)
 ## 2021-08-22 22:37:51 - feat(metric): implement metric module (11/20)
+## 2021-09-18 14:21:31 - feat(ui): create ui handler (16/20)
