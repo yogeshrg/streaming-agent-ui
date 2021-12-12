@@ -65,3 +65,4 @@
 ## 2021-10-23 13:27:36 - feat(test): add test endpoint (13/20)
 ## 2021-10-31 21:42:38 - feat(log): add log support (14/20)
 ## 2021-11-06 14:06:02 - feat(auth): create auth handler (10/20)
+## 2021-12-12 11:18:29 - feat(core): add core endpoint (13/20)
