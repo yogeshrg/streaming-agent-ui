@@ -688,3 +688,4 @@
 ## 2021-11-06 14:06:02 - feat(auth): create auth handler (10/20)
 ## 2021-12-12 11:18:29 - feat(core): add core endpoint (13/20)
 ## 2022-01-09 10:22:03 - feat(alert): add alert support (6/20)
+## 2022-01-09 18:55:38 - feat(api): implement api module (9/20)
