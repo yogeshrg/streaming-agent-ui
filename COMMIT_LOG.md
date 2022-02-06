@@ -485,3 +485,4 @@
 ## 2022-01-09 20:25:54 - feat(alert): add alert endpoint (12/20)
 ## 2022-01-29 13:58:06 - feat(infra): add infra support (20/20)
 ## 2022-02-06 10:07:35 - feat(infra): implement infra module (19/20)
+## 2022-02-06 20:56:24 - feat(log): create log handler (7/20)
