@@ -691,3 +691,4 @@
 ## 2022-01-09 18:55:38 - feat(api): implement api module (9/20)
 ## 2022-01-09 20:25:54 - feat(alert): add alert endpoint (12/20)
 ## 2022-01-29 13:58:06 - feat(infra): add infra support (20/20)
+## 2022-02-06 10:07:35 - feat(infra): implement infra module (19/20)
