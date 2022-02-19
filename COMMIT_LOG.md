@@ -901,3 +901,4 @@
 ## 2022-02-06 10:07:35 - feat(infra): implement infra module (19/20)
 ## 2022-02-06 20:56:24 - feat(log): create log handler (7/20)
 ## 2022-02-13 22:12:37 - feat(build): create build handler (1/20)
+## 2022-02-19 16:16:44 - feat(docs): add docs support (3/20)
