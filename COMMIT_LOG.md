@@ -77,3 +77,4 @@
 ## 2022-02-20 13:04:18 - feat(core): implement core feature (15/20)
 ## 2022-03-19 13:30:09 - feat(ui): create ui handler (8/20)
 ## 2022-03-19 13:46:26 - feat(security): add security support (13/20)
+## 2022-04-10 21:52:21 - feat(build): create build handler (9/20)
