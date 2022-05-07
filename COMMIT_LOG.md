@@ -79,3 +79,4 @@
 ## 2022-03-19 13:46:26 - feat(security): add security support (13/20)
 ## 2022-04-10 21:52:21 - feat(build): create build handler (9/20)
 ## 2022-04-20 13:17:45 - feat(metric): implement metric feature
+## 2022-05-07 22:30:05 - feat(ui): implement ui feature (4/20)
