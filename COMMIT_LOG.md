@@ -909,3 +909,4 @@
 ## 2022-04-20 13:17:45 - feat(metric): implement metric feature
 ## 2022-05-07 22:30:05 - feat(ui): implement ui feature (4/20)
 ## 2022-05-21 18:10:26 - feat(auth): create auth handler (12/20)
+## 2022-06-07 19:17:51 - feat(auth): implement auth feature
