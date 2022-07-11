@@ -705,3 +705,4 @@
 ## 2022-06-07 19:17:51 - feat(auth): implement auth feature
 ## 2022-06-12 18:17:24 - feat(db): create db handler (6/20)
 ## 2022-07-10 13:17:30 - feat(db): add db support (12/20)
+## 2022-07-11 12:16:56 - feat(queue): add queue support
