@@ -296,3 +296,4 @@
 ## 2022-07-23 20:38:19 - feat(auth): implement auth feature (9/20)
 ## 2022-07-24 17:30:31 - feat(deploy): create deploy handler (9/20)
 ## 2022-08-13 18:06:49 - feat(config): add config support (1/20)
+## 2022-10-22 20:01:59 - feat(data): add data support (11/20)
