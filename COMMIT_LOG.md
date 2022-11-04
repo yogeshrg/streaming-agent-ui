@@ -919,3 +919,4 @@
 ## 2022-08-13 18:06:49 - feat(config): add config support (1/20)
 ## 2022-10-22 20:01:59 - feat(data): add data support (11/20)
 ## 2022-10-30 13:40:33 - feat(api): add api endpoint (3/20)
+## 2022-11-04 12:04:22 - feat(worker): implement worker feature
