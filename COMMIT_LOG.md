@@ -921,3 +921,4 @@
 ## 2022-10-30 13:40:33 - feat(api): add api endpoint (3/20)
 ## 2022-11-04 12:04:22 - feat(worker): implement worker feature
 ## 2022-11-05 20:32:55 - feat(ui): create ui handler (11/20)
+## 2022-12-03 22:52:13 - feat(build): add build support (20/20)
