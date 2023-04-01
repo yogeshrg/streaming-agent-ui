@@ -106,3 +106,4 @@
 ## 2023-03-04 09:52:26 - feat(model): create model handler (14/20)
 ## 2023-03-05 23:52:22 - feat(test): add test support (18/20)
 ## 2023-03-26 20:25:02 - feat(auth): implement auth module (7/20)
+## 2023-04-01 13:04:40 - feat(core): implement core module (16/20)
