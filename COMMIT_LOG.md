@@ -940,3 +940,4 @@
 ## 2023-05-06 12:51:45 - feat(deploy): implement deploy feature (3/20)
 ## 2023-05-06 14:30:57 - feat(api): implement api feature (1/20)
 ## 2023-05-07 14:54:34 - feat(ui): implement ui feature (1/20)
+## 2023-06-02 12:09:20 - feat(infra): create infra handler
