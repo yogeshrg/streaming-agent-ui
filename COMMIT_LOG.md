@@ -734,3 +734,4 @@
 ## 2023-05-06 14:30:57 - feat(api): implement api feature (1/20)
 ## 2023-05-07 14:54:34 - feat(ui): implement ui feature (1/20)
 ## 2023-06-02 12:09:20 - feat(infra): create infra handler
+## 2023-06-15 21:37:39 - feat(ui): implement ui module
