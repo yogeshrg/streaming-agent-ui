@@ -530,3 +530,4 @@
 ## 2023-06-15 21:37:39 - feat(ui): implement ui module
 ## 2023-06-17 22:11:15 - feat(core): create core handler (11/20)
 ## 2023-06-17 23:29:07 - feat(metric): implement metric module (13/20)
+## 2023-07-09 10:06:44 - feat(build): add build support (11/20)
