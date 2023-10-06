@@ -540,3 +540,4 @@
 ## 2023-09-24 11:27:03 - feat(api): add api support (14/20)
 ## 2023-09-30 14:30:27 - feat(build): implement build module (7/20)
 ## 2023-09-30 19:59:40 - feat(security): add security endpoint (5/20)
+## 2023-10-06 22:47:32 - feat(ui): implement ui feature
