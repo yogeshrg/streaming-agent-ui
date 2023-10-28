@@ -751,3 +751,4 @@
 ## 2023-10-07 23:27:22 - feat(build): add build endpoint (8/20)
 ## 2023-10-14 09:22:30 - feat(db): create db handler (10/20)
 ## 2023-10-22 19:28:27 - feat(core): create core handler (12/20)
+## 2023-10-28 10:59:08 - feat(metric): implement metric feature (20/20)
