@@ -547,3 +547,4 @@
 ## 2023-10-28 10:59:08 - feat(metric): implement metric feature (20/20)
 ## 2023-10-29 10:34:35 - feat(data): add data support (3/20)
 ## 2023-10-29 23:01:05 - feat(build): implement build feature (5/20)
+## 2023-11-12 14:48:54 - feat(alert): add alert endpoint (2/20)
