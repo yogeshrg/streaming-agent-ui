@@ -755,3 +755,4 @@
 ## 2023-10-29 10:34:35 - feat(data): add data support (3/20)
 ## 2023-10-29 23:01:05 - feat(build): implement build feature (5/20)
 ## 2023-11-12 14:48:54 - feat(alert): add alert endpoint (2/20)
+## 2023-12-09 19:20:22 - feat(worker): add worker support (16/20)
