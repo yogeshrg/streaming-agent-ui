@@ -971,3 +971,4 @@
 ## 2024-03-31 23:26:07 - feat(alert): add alert endpoint (11/20)
 ## 2024-04-02 12:33:24 - feat(deploy): add deploy support
 ## 2024-04-14 22:09:05 - feat(core): add core endpoint (20/20)
+## 2024-05-04 16:19:19 - feat(ui): create ui handler (9/20)
