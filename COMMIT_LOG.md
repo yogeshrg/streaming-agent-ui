@@ -147,3 +147,4 @@
 ## 2024-05-05 16:23:33 - feat(model): implement model module (14/20)
 ## 2024-05-11 14:19:41 - feat(auth): implement auth module (20/20)
 ## 2024-05-19 17:09:42 - feat(monitor): create monitor handler (2/20)
+## 2024-05-19 17:50:13 - feat(log): add log support (13/20)
