@@ -149,3 +149,4 @@
 ## 2024-05-19 17:09:42 - feat(monitor): create monitor handler (2/20)
 ## 2024-05-19 17:50:13 - feat(log): add log support (13/20)
 ## 2024-05-26 23:10:49 - feat(build): implement build feature (7/20)
+## 2024-06-08 20:11:03 - feat(metric): create metric handler (20/20)
