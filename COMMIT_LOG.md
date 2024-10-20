@@ -779,3 +779,4 @@
 ## 2024-07-21 21:52:27 - feat(metric): create metric handler (19/20)
 ## 2024-08-09 20:41:25 - feat(ui): implement ui feature
 ## 2024-08-24 20:14:32 - feat(security): implement security module (19/20)
+## 2024-10-20 10:19:25 - feat(db): add db support (16/20)
