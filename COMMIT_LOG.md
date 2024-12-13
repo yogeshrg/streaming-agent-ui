@@ -368,3 +368,4 @@
 ## 2024-10-20 10:19:25 - feat(db): add db support (16/20)
 ## 2024-11-09 16:11:03 - feat(model): add model endpoint (12/20)
 ## 2024-11-09 18:28:47 - feat(metric): add metric support (20/20)
+## 2024-12-13 16:29:36 - feat(monitor): create monitor handler
