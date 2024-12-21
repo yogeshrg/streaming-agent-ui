@@ -576,3 +576,4 @@
 ## 2024-11-09 16:11:03 - feat(model): add model endpoint (12/20)
 ## 2024-11-09 18:28:47 - feat(metric): add metric support (20/20)
 ## 2024-12-13 16:29:36 - feat(monitor): create monitor handler
+## 2024-12-21 16:52:38 - feat(monitor): add monitor endpoint (15/20)
