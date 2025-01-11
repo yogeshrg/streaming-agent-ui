@@ -164,3 +164,4 @@
 ## 2024-12-13 16:29:36 - feat(monitor): create monitor handler
 ## 2024-12-21 16:52:38 - feat(monitor): add monitor endpoint (15/20)
 ## 2024-12-22 16:56:52 - feat(api): create api handler (11/20)
+## 2025-01-11 21:22:33 - feat(ui): add ui endpoint (12/20)
