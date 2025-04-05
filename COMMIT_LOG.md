@@ -996,3 +996,4 @@
 ## 2025-01-19 15:19:58 - feat(api): add api support (2/20)
 ## 2025-02-08 13:25:45 - feat(ci): add ci endpoint (2/20)
 ## 2025-03-06 13:20:09 - feat(ci): add ci endpoint
+## 2025-04-05 20:00:40 - feat(model): add model endpoint (13/20)
