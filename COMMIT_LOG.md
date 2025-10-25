@@ -186,3 +186,4 @@
 ## 2025-09-13 09:59:41 - feat(cache): implement cache feature (14/20)
 ## 2025-09-13 18:00:03 - feat(security): create security handler (11/20)
 ## 2025-10-12 10:12:40 - feat(ui): implement ui feature (9/20)
+## 2025-10-25 14:37:45 - feat(core): add core support (17/20)
